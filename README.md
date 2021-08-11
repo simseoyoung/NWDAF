@@ -33,7 +33,7 @@ ML algorithm to predict next day's energy consumption of Smart Factory
 ## 알고리즘 실행 결과에 대한 설명
 
 ![telegram-cloud-photo-size-5-6098029360847105161-y](https://user-images.githubusercontent.com/88702793/128999072-eb354bcb-c2f1-4256-a573-72b0edfad6d4.jpg)
-photo_2021-08-11 16 47 52 
+
 ![telegram-cloud-photo-size-5-6098029360847105165-y](https://user-images.githubusercontent.com/88702793/128999145-417d7f27-3c11-47fb-b1ad-7fb4f5857e44.jpg)
 
 
